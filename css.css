@@ -23,7 +23,9 @@ border-radius: 15px;
 
 #song {
 background: #232323;
+border: solid 2px black;
 border-radius: 15px;
+margin-top: 15px;
 }
 
 #nav {
@@ -36,6 +38,7 @@ color: #ffce3f;
 #bottom {
 background: #232323;
 text-align: right;
+margin-top: 15px;
 }
 
 
