@@ -26,18 +26,16 @@ background: #232323;
 border: solid 2px black;
 border-radius: 15px;
 margin-top: 15px;
-padding: 10px 10px 0px 0px;
+padding: 10px 0px 0px 10px;
 }
 
 #nav {
-background: #232323;
 font-family: 'VT323', monospace;
 font-size: 14px;
 color: #ffce3f;
 }
 
 #bottom {
-background: #232323;
 text-align: right;
 margin-top: 15px;
 }
