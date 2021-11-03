@@ -34,14 +34,15 @@ padding-bottom:10px;
 
 #nav {
 font-family: 'VT323', monospace;
-font-size: 15px;
+font-size: 5px;
 letter-spacing: 2px;
 color: #ffce3f;
+padding-left:15px;
 }
 
 #bottom {
 text-align: right;
-margin-top: 15px;
+margin-top: 5px;
 }
 
 
