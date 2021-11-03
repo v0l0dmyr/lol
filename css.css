@@ -22,14 +22,12 @@ border-radius: 15px;
 
 
 #song {
-position: fixed;
 width:70%;
 float:right;
 padding: 15px;
 }
 
 #nav {
-position: fixed;
 width:29%;
 float:left;
 }
