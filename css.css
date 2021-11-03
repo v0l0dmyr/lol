@@ -30,9 +30,13 @@ border-radius: 15px;
 background: #232323;
 font-family: 'VT323', monospace;
 font-size: 12px;
-color: #ffffff;
+color: #ffce3f;
 }
 
+#bottom {
+background: #232323;
+text-align: right;
+}
 
 
 
