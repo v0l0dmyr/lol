@@ -1,0 +1,10 @@
+body {
+    background: #1f1f1f;
+    font-family: 'Arial', sans-serif;
+    font-size: 11px;
+    color: #1d1d1d;
+    letter-spacing: 1px;
+    line-height: 200%;
+    text-transform: lowercase;
+    text-align: justify;
+}
