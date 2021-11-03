@@ -1,7 +1,7 @@
 body {
 background: #1f1f1f;
 font-family: 'VT323', monospace;
-font-size: 9px;
+font-size: 11px;
 color: #ffffff;
 letter-spacing: 1px;
 line-height: 200%;
@@ -37,7 +37,7 @@ font-family: 'VT323', monospace;
 font-size: 15px;
 letter-spacing: 2px;
 color: #ffce3f;
-padding-left:15px;
+padding-left:25px;
 }
 
 #bottom {
