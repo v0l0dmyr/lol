@@ -34,17 +34,8 @@ padding-bottom:10px;
 
 #nav {
 font-family: 'VT323', monospace;
-font-size: 15px;
-letter-spacing: 2px;
+font-size: 16px;
+letter-spacing: 3px;
 color: #ffce3f;
 text-align: center;
 }
-
-#bottom {
-text-align: right;
-margin-top: 5px;
-}
-
-
-
-
