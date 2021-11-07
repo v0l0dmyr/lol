@@ -11,7 +11,7 @@ border-radius: 15px;
 }
 
 #main {
-width:550px;
+width:350px;
 position: fixed;
 top: 50%;
 left: 50%;
@@ -23,7 +23,7 @@ border-radius: 15px;
 
 #song {
 height: 55px;
-width: 400px;
+width: 250px;
 background: #4f2a53;
 color: #181719;
 border-radius: 15px;
@@ -43,7 +43,7 @@ margin-top: 0px;
 
 #navlink {
 height: 20px;
-width: 145px;
+width: 95px;
 background: #4f2a53;
 color: #181719;
 border-radius: 15px;
