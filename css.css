@@ -22,15 +22,16 @@ border-radius: 15px;
 
 
 #song {
-height: 50px;
+height: 55px;
 width: 400px;
 background: #4f2a53;
 color: #181719;
 border-radius: 15px;
 text-align: center;
-font-size: 10px;
+font-size: 9px;
 padding-top:5px;
 padding-bottom:10px;
+margin-top:3px;
 float: right;
 }
 
@@ -48,8 +49,9 @@ border-radius: 15px;
 letter-spacing: 3px;
 text-align: center;
 line-height: 20px;
-font-size: 11px;
-margin-bottom:3px;
+font-size: 10px;
+margin-bottom:5px;
+margin-top:3px;
 }
 
 #navlink:hover{
@@ -58,6 +60,9 @@ color: #ffce3f;
 }
 
 #bottom{
+position: absolute;
+bottom: 0;
+left: 10;
 float:left;
 }
 
