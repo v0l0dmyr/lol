@@ -1,17 +1,17 @@
 body {
-background: #1f1f1f;
-font-family: 'Press Start 2P', cursive;
-font-size: 7px;
-color: #ffffff;
-letter-spacing: 1px;
-line-height: 200%;
+background: #201c2a;
+font-family: 'Roboto Mono', monospace;
+color: #8a7ab8;
 text-transform: lowercase;
 text-align: justify;
 }
 
+img {
+border-radius: 15px;
+}
 
 #main {
-width:350px;
+width:550px;
 position: fixed;
 top: 50%;
 left: 50%;
@@ -22,27 +22,55 @@ border-radius: 15px;
 
 
 #song {
-background: #ffffff;
-border: solid 2px black;
+height: 50px;
+width: 400px;
+background: #4f2a53;
+color: #181719;
 border-radius: 15px;
-margin-top: -5px;
-color: #000000;
 text-align: center;
-padding-top:10px;
+font-size: 10px;
+padding-top:5px;
 padding-bottom:10px;
+float: right;
 }
 
-#nav {
-font-family: 'Press Start 2P', cursive;
-font-size: 8px;
-letter-spacing: 3px;
-color: #ffce3f;
-text-align: center;
+.nav {
+float: left;
+margin-top: 0px;
 }
 
-#bottom {
-font-family: 'Press Start 2P', cursive;
+#navlink {
+height: 20px;
+width: 145px;
+background: #4f2a53;
+color: #181719;
+border-radius: 15px;
 letter-spacing: 3px;
-color: #ffce3f;
 text-align: center;
+line-height: 20px;
+font-size: 11px;
+margin-bottom:3px;
+}
+
+#navlink:hover{
+background: #4f2a53;
+color: #ffce3f;
+}
+
+#bottom{
+float:left;
+}
+
+#botlink{
+height:20px;
+border-radius: 15px;
+letter-spacing: 4px;
+text-align: left;
+line-height: 20px;
+font-size: 10px;
+}
+
+#botlink:hover{
+text-decoration: none;
+color: #ffce3f;
 }
